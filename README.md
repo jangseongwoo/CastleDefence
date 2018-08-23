@@ -1,6 +1,6 @@
-# CastleDefence - 2D Game
+# CastleDefence
 
-> 10주간 C++, Ogre3d engine으로 만든 프로젝트입니다.
+> 10주간 C, C++, Ogre3d engine으로 만든 프로젝트입니다.
 
 [![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
 
@@ -131,7 +131,7 @@ git clone https://github.com/jangseongwoo/castleDefence.git
 
 ## 사용 기술
 
-- C++, Ogre3d, Git
+- C, C++, Ogre3d, Git
 
 ## 정보
 
